@@ -4,7 +4,7 @@ import 'package:online_shop_ui/constants/constant_data.dart';
 import 'package:online_shop_ui/constants/constants.dart';
 import 'package:online_shop_ui/constants/dialoge.dart';
 import 'package:online_shop_ui/models/user.dart';
-import 'package:online_shop_ui/provider/user/user_provider.dart';
+import 'package:online_shop_ui/provider/user_provider.dart';
 import 'package:online_shop_ui/splash_screen/defult_buttons.dart';
 import 'package:provider/provider.dart';
 

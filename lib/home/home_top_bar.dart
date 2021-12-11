@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:online_shop_ui/cart/cart_screen.dart';
 import 'package:online_shop_ui/constants/constants.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:online_shop_ui/provider/user/user_provider.dart';
+import 'package:online_shop_ui/provider/user_provider.dart';
 import 'package:provider/provider.dart';
 
 class HomeTopBar extends StatelessWidget {

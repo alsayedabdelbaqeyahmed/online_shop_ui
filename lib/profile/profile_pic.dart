@@ -1,5 +1,5 @@
 import 'dart:io';
-import 'package:online_shop_ui/provider/user/user_profile__provider.dart';
+import 'package:online_shop_ui/provider/user_profile__provider.dart';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 

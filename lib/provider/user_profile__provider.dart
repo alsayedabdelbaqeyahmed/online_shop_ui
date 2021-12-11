@@ -3,7 +3,7 @@ import 'dart:io';
 import 'dart:typed_data';
 import 'package:http/http.dart';
 import 'package:flutter/material.dart';
-import 'package:online_shop_ui/provider/user/user_provider.dart';
+import 'package:online_shop_ui/provider/user_provider.dart';
 import 'package:provider/provider.dart';
 
 class UserImageProvider extends ChangeNotifier {

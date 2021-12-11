@@ -5,7 +5,7 @@ import 'package:online_shop_ui/constants/enum.dart';
 import 'package:online_shop_ui/profile/bottom_bar.dart';
 import 'package:online_shop_ui/profile/profile_men.dart';
 import 'package:online_shop_ui/profile/profile_pic.dart';
-import 'package:online_shop_ui/provider/user/user_provider.dart';
+import 'package:online_shop_ui/provider/user_provider.dart';
 import 'package:online_shop_ui/sign_in_screen/sign_in_screen.dart';
 import 'package:provider/provider.dart';
 

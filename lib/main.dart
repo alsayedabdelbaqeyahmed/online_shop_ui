@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:online_shop_ui/home/home_screen.dart';
-import 'package:online_shop_ui/provider/user/user_provider.dart';
+import 'package:online_shop_ui/provider/user_provider.dart';
 import 'package:parse_server_sdk/parse_server_sdk.dart';
 import 'constants/routes.dart';
 import 'constants/theme_style.dart';
-import 'provider/user/user_profile__provider.dart';
+import 'provider/user_profile__provider.dart';
 import 'splash_screen/splash_screen.dart';
 import 'package:provider/provider.dart';
 
